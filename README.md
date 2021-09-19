@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alan-Victor
+- 👋 Hi, I’m Alan-Victor
 - 👀 I get excited while generating insights from Business Data and solving the Business problems.
 - 🌱 I’m actively learning all about Data, Data Skills and Data Tools 
 - 💞️ I’m looking to collaborate on projects related to Data/Business Analytics and Business Intelligence Projects
